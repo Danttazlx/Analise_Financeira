@@ -1,0 +1,9 @@
+id_cliente,nome,idade,renda_mensal,limite_credito,gasto_mensal,parcelas_em_aberto,status_pagamento,cidade,taxa_utilizacao
+2,Bruno Costa,35,5200.0,12000.0,9800.0,5,Atrasado,Rio de Janeiro,0.8166666666666667
+4,Daniela Souza,31,2800.0,6000.0,5900.0,8,Inadimplente,São Paulo,0.9833333333333333
+6,Fernanda Rocha,27,2200.0,4000.0,3900.0,6,Atrasado,São Paulo,0.975
+9,Igor Teixeira,33,4100.0,9000.0,8800.0,9,Inadimplente,São Paulo,0.9777777777777777
+12,Larissa Nunes,26,2500.0,5000.0,4800.0,7,Inadimplente,São Paulo,0.96
+14,Natalia Pires,36,5800.0,13000.0,12800.0,6,Atrasado,Rio de Janeiro,0.9846153846153847
+16,Patricia Gomes,30,3200.0,7000.0,6900.0,8,Inadimplente,Campinas,0.9857142857142858
+19,Thiago Cardoso,25,2000.0,3500.0,3400.0,7,Atrasado,Rio de Janeiro,0.9714285714285714
